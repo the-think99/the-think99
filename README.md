@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the-think99
+- 👋 Hi, I’m @the-think99 a.k.a Andi Haritsah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
