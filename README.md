@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-think99 a.k.a Andi Haritsah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
